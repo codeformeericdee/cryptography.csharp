@@ -1,0 +1,16 @@
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.exe
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.deps.json
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.runtimeconfig.json
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.runtimeconfig.dev.json
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.dll
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.pdb
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.csproj.AssemblyReference.cache
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.Form1.resources
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.csproj.GenerateResource.cache
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.AssemblyInfoInputs.cache
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.AssemblyInfo.cs
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.csproj.CoreCompileInputs.cache
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.dll
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.pdb
+C:\NTC\Advanced.NET\10.4.assignment\Cryptography\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.genruntimeconfig.cache
